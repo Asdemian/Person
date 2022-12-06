@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         human human1 = new human();
         human1.name = "Максим";
         human1.town = "Минск";
